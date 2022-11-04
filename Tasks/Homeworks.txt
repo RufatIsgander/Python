@@ -1,0 +1,23 @@
+1) Ölçüsü 5 olan iki massiv yaradın A və B . Ölçüsü 10 olan üçüncü list yaradın C.
+C list-nə A və B dən sıra ilə elemntləri kopyalayın.
+(məs: С[0]=A[0], С[1]=B[0], C[2]=A[1], C[3]=B[1] və s.)
+
+
+2) Bir massivi ikinci massivə kopya edən program yazın. (-4, 4 araliq)
+ Şərt: kopya edərkən birinci sıfırdan kiçik elementlər daha sonra 0-lar daha sonra
+0-dan böyük elementləri kopya etməlidir.
+(məs: [1, -2, 0, -3] => [-2, -3, 0, 1]) 
+
+
+3) Olcusu 5 olan list yaradin, icersini random ededlerle dolduru,
+sort funksiyasini istifade etmeden, hemin listi sort edin.
+
+
+4) M və N ölçülü iki ədəd massiv verilib. Üçüncü massivə bu iki massivdə ortaq olan
+rəqəmləri yazan program yazın. Üçüncü massivdə rəqəmlər təkrarlanmasın.
+(mes: [1,2,3,4,2,8,7] - [4,2,5,7,8] => [2, 4, 7, 8])
+
+
+5) M və N ölçülü iki ədəd massiv verilib. Üçüncü massivə birinci massivdə olub, lakin ikinci
+massivdə olmayan rəqəmləri yazan program yazın. Üçüncü massivdəki rəqəmlər
+(mes: [1,2,3,4,2,8,7] - [4,2,5,7,8] => [1, 3])

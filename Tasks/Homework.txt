@@ -1,0 +1,57 @@
+# names = ['Tural', 'Cavid', 'Mehriban', 'Rufet']
+# ages = [1992, 1997, 1998, 1999]
+
+# 1-  "Tehmine" adini listin sonuna elave edin.
+
+# 2-  "Zaur" deyerni listin evveline elave edin.
+
+# 3-  "Mehriban" adini listden silin.
+
+# 4-  "Rufet" adinin indeksi nedir ?
+
+# 5-  "Oktay" listin bir elementidi ?
+
+# 6-  Listin elementlerni ters çevirin. (names)(sort)
+
+# 7-  Listin elementlerni alfabetik olarak sıralayın. (names)(sort)
+
+# 8-  ages listindeki reqemleri sıralayın. (ages)(sort)
+
+# 9-  s = "IPhone X,IPhone XR" xarakter siyahisini liste çevirin.
+
+# 10- ages listinde en boyük ve en kiçik element nedir ?
+
+# 11- ages listinde nece dene 1998 deyeri var ?
+
+# 12- ages listindeki butun elementleri silin.
+
+# 13- Istifadeciden alacağınız 3 dene marka bilgisini bir listde saxlayin.
+
+# 14 Nested List 1 (Listi ashagida gosterilen formada doldurmaq ve cap etmek)
+
+(5x5)
+
+    10101
+    10101
+    10101
+    10101
+    10101
+
+# 15 Nested List 2 (Listi ashagida gosterilen formada doldurmaq ve cap etmek)
+
+(5x5)
+
+    10001
+    01010
+    00100
+    01010
+    10001
+
+
+
+
+
+
+
+
+

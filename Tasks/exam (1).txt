@@ -1,0 +1,6 @@
+1. Suallar chixir. altinda variantlar ile
+2. Her duzgun cavabda Istifadechinin mukafati qalxir.
+3. variantlar her defe deyishir. (a. 1, b. 2, c. 3, d. 4) ise novbeti defe (a. 2, b. 4, c. 3, d. 1)
+4. Checkpointler olmalidir. Yeni uduzduqda minimum alacagi mebleq olmalidir.
+5. 50/50, sehv cavab ve auditoriyanin cavabi jokerleri olmalidir. 
+6. Her joker 1 defe  istifade edeile biler.

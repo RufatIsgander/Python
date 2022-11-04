@@ -1,0 +1,34 @@
+// Butun tapshiriqlari funksiya ile etmek lazimdir.
+
+
+
+1) 1 və 100 arasında random rəqəmlərdən ibarət ölçüsü 10 olan list yaradın.
+3-ə bölünüb 5-ə bölünməyən rəqəmlərin sayını çıxarın.
+(eyni anda həm 3ə bölünsün həm 5-ə bölünməsin)
+
+
+
+
+2) -10 və 30 arasında random rəqəmlərdən ibarət ölçüsü 10 olan
+list yaradın. Birinci mənfi ədəddən sonra gələn bütün rəqəmləri
+toplayan program yazın. (1,2,-3,4,5,-6,7 bu halda , 4+5+(-6)+7 olacaq)
+
+
+
+
+3) -30 və 20 arasında random rəqəmlərdən ibarət ölçüsü 10 olan
+list yaradın. Birinci müsbət ədəddən sonra gələn bütün rəqəmləri
+toplayan program yazın.
+
+
+
+4) Ölçüsü 20 olan və random rəqəmlərdən ibarət list yaradın.
+Listin maximum və minimum elemtini tapan program yazın.
+(Dəyəri və indeksi qaytarın)
+
+
+
+
+5) 1 və 200 arasında random rəqəmlərdən ibarət ölçüsü 20 olan
+list yaradın. 1 rəqəmli, 2 rəqəmli, 3 rəqəmli ədədlərin faiz nisbəti
+ilə müqayisəsini edən program yazın.

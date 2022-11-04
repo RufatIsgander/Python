@@ -1,0 +1,6 @@
+Rock Paper Scissors
+vs Comp
+
+istifadechiden hesabin necheden oldugu sorushulur.
+
+her sonunda hesabin neche neche oldugu ekrana chixir.

@@ -1,0 +1,14 @@
+website = "http://www.google.com"
+course = 'Our course is best in the World, STEP IT ACADEMY Azerbaijan'
+
+
+# 1) 'Hello programmers' ifadesindeki 'p' herfini 'P' ile evez edin.
+
+# 2) s = qwertyuiqwopzercdscgnvxbhgmjlma setirde 1-den chox istifade olunan herfleri ekranda gosterin.
+# Help: nested for
+
+# 3) ' Hello World ' xarakter siyahisinda baş ve sondaki boşluk xarakterlerini silin.
+
+# 4) 'course' xarakter siyahisinda bütün xarakterlerini kiçik herf edin.
+
+# 5) 'website' "www" ile başlayıp "com" ile bitir?
